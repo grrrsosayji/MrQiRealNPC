@@ -210,7 +210,7 @@
 	"FestivalDialogue.Qi.spring24": "이 축제는 정말 유치하지만, 사람들이 매력을 느끼는 이유가 뭔진 알겠어.#$b#파트너는 이미 정해졌겠지, {{NameOrKid}}. 계속해서 \"싫어\" 라는 말을 듣는 건 정말 굴욕적이니까.",
 	"FestivalDialogue.Qi.spring24-DanceAccept": "와, 나랑 춤을 추고 싶다고? 그래애, 한번 해볼게. 좋은 경험이라고 생각하지.#$b#...턱시도가 내 피부색이랑 똑같아서 진짜 이상할 텐데... 장갑 껴도 되지?$s",
 	"FestivalDialogue.Qi.spring24-DanceAccept_Spouse": "물론이야, 너랑 늘 춤추고 싶어, 허니!$h",
-	"FestivalDialogue.Qi.spring24-DanceDecline": "고마워, 근데 미안. 춤출 기분이 아니네. 마을 문화에 휘둘리지 않는 편이 나아. 네가 이해했길 바란다.",
+	"FestivalDialogue.Qi.spring24-DanceDecline": "고마워, 하자만 유감이네. 춤출 기분이 아니야. 마을 문화에는 휘둘리지 않는 편이 나으니. 네가 이해했길 바란다.",
 
 	//Luau
 	"FestivalDialogue.Qi.summer11": "이 축제는 사람들로 정말 붐비네. 문제될 건 없는데, 사람이 적은 곳을 찾기가 너무 어렵군.#$b#다른 사람들 눈에 안 띄어야 해서.#$e#적어도 여긴 파티랑 좀 떨어져 있어서 다행이야.",
